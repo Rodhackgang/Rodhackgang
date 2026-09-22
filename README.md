@@ -199,16 +199,17 @@ Utilitaires web autonomes, sans dépendance — QR codes et mots de passe robust
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rodhackgang&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0B5FFF&icon_color=00C2A8&bg_color=0d1117&text_color=c9d1d9&locale=fr" alt="Statistiques GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodhackgang&layout=compact&langs_count=8&hide=hack,objective-c,objective-c%2B%2B,ruby,dockerfile,php&size_weight=0.5&count_weight=0.5&hide_border=true&title_color=0B5FFF&bg_color=0d1117&text_color=c9d1d9&locale=fr" alt="Langages les plus utilisés" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rodhackgang&theme=github_dark" width="98%" alt="Vue d'ensemble du profil" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rodhackgang&hide_border=true&background=0d1117&stroke=00C2A8&ring=0B5FFF&fire=C2410C&currStreakLabel=0B5FFF&sideLabels=c9d1d9&dates=8b949e&locale=fr" alt="Régularité des contributions" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rodhackgang&theme=github_dark" alt="Statistiques de contribution" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rodhackgang&theme=github_dark" alt="Langages les plus utilisés" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rodhackgang&bg_color=0d1117&color=c9d1d9&line=0B5FFF&point=00C2A8&area=true&hide_border=true" width="100%" alt="Graphe d'activité" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rodhackgang&theme=github_dark&utcOffset=0" alt="Heures de travail" />
+<img height="200" src="https://streak-stats.demolab.com/?user=Rodhackgang&hide_border=true&background=0d1117&stroke=00C2A8&ring=0B5FFF&fire=C2410C&currStreakLabel=0B5FFF&sideLabels=c9d1d9&dates=8b949e&locale=fr" alt="Régularité des contributions" />
 
 </div>
 
