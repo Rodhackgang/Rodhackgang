@@ -14,6 +14,13 @@
   <img src="https://img.shields.io/badge/Ouagadougou-Burkina%20Faso-C2410C?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ouagadougou, Burkina Faso" />
 </p>
 
+<p>
+  <a href="https://wa.me/22677701726"><img src="https://img.shields.io/badge/WhatsApp-%2B226%2077%2070%2017%2026-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="mailto:Samarodrigue690@gmail.com"><img src="https://img.shields.io/badge/Me%20contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/Rodhackgang/Rodhackgang/output/snake-sombre.svg" width="100%" alt="Serpent des contributions" />
+
 </div>
 
 ---
@@ -230,10 +237,15 @@ Utilitaires web autonomes, sans dépendance — QR codes et mots de passe robust
 
 <div align="center">
 
+<a href="https://wa.me/22677701726"><img src="https://img.shields.io/badge/WhatsApp-%2B226%2077%2070%2017%2026-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp +226 77 70 17 26" /></a>
 <a href="mailto:Samarodrigue690@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Rodhackgang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=17&duration=3000&pause=900&color=25D366&center=true&vCenter=true&width=620&lines=Disponible+pour+un+poste+ou+une+mission;%C3%89crivez-moi+sur+WhatsApp+%3A+%2B226+77+70+17+26;R%C3%A9ponse+sous+24+heures" alt="Disponibilité" />
+
+<br/>
 
 <i>Ouvert aux opportunités en développement mobile et backend,<br/>sur place à Ouagadougou ou à distance.</i>
 
