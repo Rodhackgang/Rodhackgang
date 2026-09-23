@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=210&section=header&text=Rodrigue%20SAMA&fontSize=56&fontColor=ffffff&fontAlignY=35&desc=D%C3%A9veloppeur%20mobile%20%26%20web%20%C2%B7%20Burkina%20Faso&descAlignY=56&descSize=17&animation=fadeIn" width="100%" alt="Rodrigue SAMA" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=190&section=header&text=Rodrigue%20SAMA&fontSize=54&fontColor=ffffff&fontAlignY=34&desc=D%C3%A9veloppeur%20mobile%20%26%20web%20%C2%B7%20Burkina%20Faso&descAlignY=55&descSize=17&animation=fadeIn" width="100%" alt="Rodrigue SAMA" />
+
+<img src="https://raw.githubusercontent.com/Rodhackgang/Rodhackgang/main/assets/avatar-cercle.png" width="190" alt="Rodrigue SAMA" />
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2800&pause=800&color=0B5FFF&center=true&vCenter=true&width=700&lines=Applications+mobiles+React+Native+%26+Kotlin;APIs+Node.js+%C2%B7+MongoDB+%C2%B7+temps+r%C3%A9el;Paiement+mobile+money+%C2%B7+Afrique+de+l'Ouest;Je+construis+pour+des+r%C3%A9seaux+instables" alt="Ce que je fais" />
@@ -9,7 +11,7 @@
 <p>
   <a href="https://github.com/Rodhackgang?tab=repositories"><img src="https://img.shields.io/badge/45%2B-projets%20publics-0B5FFF?style=for-the-badge&logo=github&logoColor=white" alt="Projets" /></a>
   <img src="https://komarev.com/ghpvc/?username=Rodhackgang&style=for-the-badge&color=00C2A8&label=VISITES" alt="Visites" />
-  <img src="https://img.shields.io/badge/Burkina_Faso-🇧🇫-C2410C?style=for-the-badge" alt="Burkina Faso" />
+  <img src="https://img.shields.io/badge/Ouagadougou-Burkina%20Faso-C2410C?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ouagadougou, Burkina Faso" />
 </p>
 
 </div>
