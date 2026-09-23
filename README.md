@@ -145,12 +145,12 @@ ce que les frameworks masquent.
 </td>
 <td width="50%" valign="top">
 
-### 🌿 [YERE-DEME](https://github.com/Rodhackgang/YERE-DEME)
+### 🗺️ [Toum Guili](https://github.com/Rodhackgang/Toum_Guili)
 
-Application de **médecine traditionnelle** : répertoire de remèdes, géolocalisation
-des praticiens et mise en relation par WhatsApp.
+Annuaire mobile **géolocalisé** : carte et liste synchronisées, fiches en feuille
+glissante, mise en relation WhatsApp en un geste.
 
-`TypeScript` `React Native`
+`React Native` `Expo` `Lottie`
 
 </td>
 </tr>
@@ -166,11 +166,12 @@ API REST de gestion d'offres d'emploi — publication, modification, suppression
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [WhatsApp Bot](https://github.com/Rodhackgang/Whatsapp-Bot)
+### 🏫 [Gestion des écoles](https://github.com/Rodhackgang/GESTION-DES-ECOLES)
 
-Bot WhatsApp autonome : commandes, réponses automatiques, session persistée.
+Système scolaire complet : un tableau de bord par profil — élève, enseignant,
+administration. Absences, bulletins, emplois du temps, messagerie.
 
-`JavaScript` `Node.js`
+`PHP` `MySQL` `Bootstrap`
 
 </td>
 </tr>
@@ -187,11 +188,12 @@ prêtes à alimenter une application de quiz.
 </td>
 <td width="50%" valign="top">
 
-### 🔑 [Générateur de QR & mots de passe](https://github.com/Rodhackgang?tab=repositories&q=generateur)
+### 🧩 [TMK — Gestionnaire de contenu](https://github.com/Rodhackgang/TMK)
 
-Utilitaires web autonomes, sans dépendance — QR codes et mots de passe robustes.
+Back-office pilotant un site institutionnel entier : 11 types de contenu
+modélisés, authentification JWT, téléversement de médias, conteneurisé.
 
-`JavaScript` `CSS`
+`Node.js` `Express` `MongoDB` `Docker`
 
 </td>
 </tr>
