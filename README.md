@@ -19,7 +19,6 @@
   <a href="mailto:Samarodrigue690@gmail.com"><img src="https://img.shields.io/badge/Me%20contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Rodhackgang/Rodhackgang/output/snake-sombre.svg" width="100%" alt="Serpent des contributions" />
 
 </div>
 
